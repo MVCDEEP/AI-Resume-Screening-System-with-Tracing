@@ -1,0 +1,13 @@
+Looking for Data Scientist with:
+
+Python
+Machine Learning
+Deep Learning
+SQL
+Pandas
+TensorFlow
+AWS
+Docker
+NLP
+
+We are hiring a Python developer with knowledge of machine learning and Git.
